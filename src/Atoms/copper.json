@@ -1,0 +1,83 @@
+{
+    "name": "Copper",
+    "symbol": "Cu",
+    "atomicNumber": 29,
+    "description": "Copper is a ductile, malleable metal. Note the exception in config: [Ar] 3d10 4s1.",
+    "nucleus": {
+        "protons": 29,
+        "neutrons": 34,
+        "color": "#ff9933"
+    },
+    "orbitals": [
+        {
+            "name": "1s",
+            "n": 1,
+            "l": 0,
+            "m": 0,
+            "maxElectrons": 2,
+            "currentElectrons": 2,
+            "color": "#4ecdc4",
+            "opacity": 0.2
+        },
+        {
+            "name": "2s",
+            "n": 2,
+            "l": 0,
+            "m": 0,
+            "maxElectrons": 2,
+            "currentElectrons": 2,
+            "color": "#95e1d3",
+            "opacity": 0.2
+        },
+        {
+            "name": "2p",
+            "n": 2,
+            "l": 1,
+            "m": 0,
+            "maxElectrons": 6,
+            "currentElectrons": 6,
+            "color": "#f38181",
+            "opacity": 0.3
+        },
+        {
+            "name": "3s",
+            "n": 3,
+            "l": 0,
+            "m": 0,
+            "maxElectrons": 2,
+            "currentElectrons": 2,
+            "color": "#a8e6cf",
+            "opacity": 0.3
+        },
+        {
+            "name": "3p",
+            "n": 3,
+            "l": 1,
+            "m": 0,
+            "maxElectrons": 6,
+            "currentElectrons": 6,
+            "color": "#ffd3b6",
+            "opacity": 0.4
+        },
+        {
+            "name": "3d",
+            "n": 3,
+            "l": 2,
+            "m": 0,
+            "maxElectrons": 10,
+            "currentElectrons": 10,
+            "color": "#ff8b94",
+            "opacity": 0.6
+        },
+        {
+            "name": "4s",
+            "n": 4,
+            "l": 0,
+            "m": 0,
+            "maxElectrons": 2,
+            "currentElectrons": 1,
+            "color": "#dcedc1",
+            "opacity": 0.7
+        }
+    ]
+}

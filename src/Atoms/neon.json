@@ -1,0 +1,63 @@
+{
+    "name": "Neon",
+    "symbol": "Ne",
+    "atomicNumber": 10,
+    "description": "Neon is a noble gas known for its bright reddish-orange glow in vacuum discharge tubes.",
+    "nucleus": {
+        "protons": 10,
+        "neutrons": 10,
+        "color": "#33ffff"
+    },
+    "orbitals": [
+        {
+            "name": "1s",
+            "n": 1,
+            "l": 0,
+            "m": 0,
+            "maxElectrons": 2,
+            "currentElectrons": 2,
+            "color": "#4ecdc4",
+            "opacity": 0.3
+        },
+        {
+            "name": "2s",
+            "n": 2,
+            "l": 0,
+            "m": 0,
+            "maxElectrons": 2,
+            "currentElectrons": 2,
+            "color": "#95e1d3",
+            "opacity": 0.4
+        },
+        {
+            "name": "2px",
+            "n": 2,
+            "l": 1,
+            "m": 1,
+            "maxElectrons": 2,
+            "currentElectrons": 2,
+            "color": "#f38181",
+            "opacity": 0.6
+        },
+        {
+            "name": "2py",
+            "n": 2,
+            "l": 1,
+            "m": 0,
+            "maxElectrons": 2,
+            "currentElectrons": 2,
+            "color": "#aa96da",
+            "opacity": 0.6
+        },
+        {
+            "name": "2pz",
+            "n": 2,
+            "l": 1,
+            "m": -1,
+            "maxElectrons": 2,
+            "currentElectrons": 2,
+            "color": "#fcbad3",
+            "opacity": 0.6
+        }
+    ]
+}

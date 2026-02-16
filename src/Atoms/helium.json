@@ -1,0 +1,14 @@
+{
+  "name": "Helium",
+  "symbol": "He",
+  "atomicNumber": 2,
+  "description": "Helium is a colorless, odorless, inert gas. It has the lowest boiling point of all elements.",
+  "nucleus": { "protons": 2, "neutrons": 2, "color": "#33ffff" },
+  "orbitals": [
+    {
+      "name": "1s", "n": 1, "l": 0, "m": 0,
+      "maxElectrons": 2, "currentElectrons": 2,
+      "color": "#4ecdc4", "opacity": 0.7
+    }
+  ]
+}

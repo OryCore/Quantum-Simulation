@@ -1,0 +1,63 @@
+{
+    "name": "Nitrogen",
+    "symbol": "N",
+    "atomicNumber": 7,
+    "description": "Nitrogen makes up 78% of Earth's atmosphere. It is essential for life as a component of amino acids and DNA.",
+    "nucleus": {
+        "protons": 7,
+        "neutrons": 7,
+        "color": "#ff6b6b"
+    },
+    "orbitals": [
+        {
+            "name": "1s",
+            "n": 1,
+            "l": 0,
+            "m": 0,
+            "maxElectrons": 2,
+            "currentElectrons": 2,
+            "color": "#4ecdc4",
+            "opacity": 0.4
+        },
+        {
+            "name": "2s",
+            "n": 2,
+            "l": 0,
+            "m": 0,
+            "maxElectrons": 2,
+            "currentElectrons": 2,
+            "color": "#95e1d3",
+            "opacity": 0.5
+        },
+        {
+            "name": "2px",
+            "n": 2,
+            "l": 1,
+            "m": 1,
+            "maxElectrons": 2,
+            "currentElectrons": 1,
+            "color": "#f38181",
+            "opacity": 0.6
+        },
+        {
+            "name": "2py",
+            "n": 2,
+            "l": 1,
+            "m": 0,
+            "maxElectrons": 2,
+            "currentElectrons": 1,
+            "color": "#aa96da",
+            "opacity": 0.6
+        },
+        {
+            "name": "2pz",
+            "n": 2,
+            "l": 1,
+            "m": -1,
+            "maxElectrons": 2,
+            "currentElectrons": 1,
+            "color": "#fcbad3",
+            "opacity": 0.6
+        }
+    ]
+}

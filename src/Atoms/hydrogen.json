@@ -1,0 +1,33 @@
+{
+    "name": "Hydrogen",
+    "symbol": "H",
+    "atomicNumber": 1,
+    "description": "Hydrogen is the lightest and most abundant element in the universe, consisting of one proton and one electron.",
+    "nucleus": {
+        "protons": 1,
+        "neutrons": 0,
+        "color": "#ff6b6b"
+    },
+    "electrons": [
+        {
+            "n": 1,
+            "l": 0,
+            "m": 0,
+            "spin": 0.5,
+            "orbital": "1s",
+            "energy": -13.6
+        }
+    ],
+    "orbitals": [
+        {
+            "name": "1s",
+            "n": 1,
+            "l": 0,
+            "m": 0,
+            "maxElectrons": 2,
+            "currentElectrons": 1,
+            "color": "#4ecdc4",
+            "opacity": 0.6
+        }
+    ]
+}

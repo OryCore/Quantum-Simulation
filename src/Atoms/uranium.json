@@ -1,0 +1,193 @@
+{
+    "name": "Uranium",
+    "symbol": "U",
+    "atomicNumber": 92,
+    "description": "Uranium is a heavy metal used as nuclear fuel. Z=92.",
+    "nucleus": {
+        "protons": 92,
+        "neutrons": 146,
+        "color": "#00ff00"
+    },
+    "orbitals": [
+        {
+            "name": "1s",
+            "n": 1,
+            "l": 0,
+            "m": 0,
+            "maxElectrons": 2,
+            "currentElectrons": 2,
+            "color": "#4ecdc4",
+            "opacity": 0.05
+        },
+        {
+            "name": "2s",
+            "n": 2,
+            "l": 0,
+            "m": 0,
+            "maxElectrons": 2,
+            "currentElectrons": 2,
+            "color": "#95e1d3",
+            "opacity": 0.05
+        },
+        {
+            "name": "2p",
+            "n": 2,
+            "l": 1,
+            "m": 0,
+            "maxElectrons": 6,
+            "currentElectrons": 6,
+            "color": "#f38181",
+            "opacity": 0.05
+        },
+        {
+            "name": "3s",
+            "n": 3,
+            "l": 0,
+            "m": 0,
+            "maxElectrons": 2,
+            "currentElectrons": 2,
+            "color": "#a8e6cf",
+            "opacity": 0.1
+        },
+        {
+            "name": "3p",
+            "n": 3,
+            "l": 1,
+            "m": 0,
+            "maxElectrons": 6,
+            "currentElectrons": 6,
+            "color": "#ffd3b6",
+            "opacity": 0.1
+        },
+        {
+            "name": "3d",
+            "n": 3,
+            "l": 2,
+            "m": 0,
+            "maxElectrons": 10,
+            "currentElectrons": 10,
+            "color": "#ff8b94",
+            "opacity": 0.1
+        },
+        {
+            "name": "4s",
+            "n": 4,
+            "l": 0,
+            "m": 0,
+            "maxElectrons": 2,
+            "currentElectrons": 2,
+            "color": "#dcedc1",
+            "opacity": 0.1
+        },
+        {
+            "name": "4p",
+            "n": 4,
+            "l": 1,
+            "m": 0,
+            "maxElectrons": 6,
+            "currentElectrons": 6,
+            "color": "#ffaaa5",
+            "opacity": 0.15
+        },
+        {
+            "name": "4d",
+            "n": 4,
+            "l": 2,
+            "m": 0,
+            "maxElectrons": 10,
+            "currentElectrons": 10,
+            "color": "#ff8b94",
+            "opacity": 0.15
+        },
+        {
+            "name": "4f",
+            "n": 4,
+            "l": 3,
+            "m": 0,
+            "maxElectrons": 14,
+            "currentElectrons": 14,
+            "color": "#ffff99",
+            "opacity": 0.2
+        },
+        {
+            "name": "5s",
+            "n": 5,
+            "l": 0,
+            "m": 0,
+            "maxElectrons": 2,
+            "currentElectrons": 2,
+            "color": "#c06c84",
+            "opacity": 0.2
+        },
+        {
+            "name": "5p",
+            "n": 5,
+            "l": 1,
+            "m": 0,
+            "maxElectrons": 6,
+            "currentElectrons": 6,
+            "color": "#f67280",
+            "opacity": 0.25
+        },
+        {
+            "name": "5d",
+            "n": 5,
+            "l": 2,
+            "m": 0,
+            "maxElectrons": 10,
+            "currentElectrons": 10,
+            "color": "#ff8c94",
+            "opacity": 0.3
+        },
+        {
+            "name": "5f",
+            "n": 5,
+            "l": 3,
+            "m": 0,
+            "maxElectrons": 14,
+            "currentElectrons": 3,
+            "color": "#ffa8b4",
+            "opacity": 0.6
+        },
+        {
+            "name": "6s",
+            "n": 6,
+            "l": 0,
+            "m": 0,
+            "maxElectrons": 2,
+            "currentElectrons": 2,
+            "color": "#d4a5a5",
+            "opacity": 0.4
+        },
+        {
+            "name": "6p",
+            "n": 6,
+            "l": 1,
+            "m": 0,
+            "maxElectrons": 6,
+            "currentElectrons": 6,
+            "color": "#ffb3ba",
+            "opacity": 0.5
+        },
+        {
+            "name": "6d",
+            "n": 6,
+            "l": 2,
+            "m": 0,
+            "maxElectrons": 10,
+            "currentElectrons": 1,
+            "color": "#bae1ff",
+            "opacity": 0.7
+        },
+        {
+            "name": "7s",
+            "n": 7,
+            "l": 0,
+            "m": 0,
+            "maxElectrons": 2,
+            "currentElectrons": 2,
+            "color": "#ffffba",
+            "opacity": 0.8
+        }
+    ]
+}

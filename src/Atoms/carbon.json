@@ -1,0 +1,103 @@
+{
+  "name": "Carbon",
+  "symbol": "C",
+  "atomicNumber": 6,
+  "description": "Carbon forms the basis of all organic chemistry and is essential for life. In graphite form, it conducts electricity and is used in pencils.",
+  "nucleus": {
+    "protons": 6,
+    "neutrons": 6,
+    "color": "#ff6b6b"
+  },
+  "electrons": [
+    {
+      "n": 1,
+      "l": 0,
+      "m": 0,
+      "spin": 0.5,
+      "orbital": "1s",
+      "energy": -296.2
+    },
+    {
+      "n": 1,
+      "l": 0,
+      "m": 0,
+      "spin": -0.5,
+      "orbital": "1s",
+      "energy": -296.2
+    },
+    {
+      "n": 2,
+      "l": 0,
+      "m": 0,
+      "spin": 0.5,
+      "orbital": "2s",
+      "energy": -19.4
+    },
+    {
+      "n": 2,
+      "l": 0,
+      "m": 0,
+      "spin": -0.5,
+      "orbital": "2s",
+      "energy": -19.4
+    },
+    {
+      "n": 2,
+      "l": 1,
+      "m": 1,
+      "spin": 0.5,
+      "orbital": "2p",
+      "energy": -10.7
+    },
+    {
+      "n": 2,
+      "l": 1,
+      "m": 0,
+      "spin": 0.5,
+      "orbital": "2p",
+      "energy": -10.7
+    }
+  ],
+  "orbitals": [
+    {
+      "name": "1s",
+      "n": 1,
+      "l": 0,
+      "m": 0,
+      "maxElectrons": 2,
+      "currentElectrons": 2,
+      "color": "#4ecdc4",
+      "opacity": 0.6
+    },
+    {
+      "name": "2s",
+      "n": 2,
+      "l": 0,
+      "m": 0,
+      "maxElectrons": 2,
+      "currentElectrons": 2,
+      "color": "#95e1d3",
+      "opacity": 0.6
+    },
+    {
+      "name": "2px",
+      "n": 2,
+      "l": 1,
+      "m": 1,
+      "maxElectrons": 2,
+      "currentElectrons": 1,
+      "color": "#f38181",
+      "opacity": 0.6
+    },
+    {
+      "name": "2py",
+      "n": 2,
+      "l": 1,
+      "m": 0,
+      "maxElectrons": 2,
+      "currentElectrons": 1,
+      "color": "#aa96da",
+      "opacity": 0.6
+    }
+  ]
+}

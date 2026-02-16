@@ -1,0 +1,53 @@
+{
+    "name": "Magnesium",
+    "symbol": "Mg",
+    "atomicNumber": 12,
+    "description": "Magnesium is a light, silvery metal. It is the ninth most abundant element in the universe.",
+    "nucleus": {
+        "protons": 12,
+        "neutrons": 12,
+        "color": "#c0c0c0"
+    },
+    "orbitals": [
+        {
+            "name": "1s",
+            "n": 1,
+            "l": 0,
+            "m": 0,
+            "maxElectrons": 2,
+            "currentElectrons": 2,
+            "color": "#4ecdc4",
+            "opacity": 0.2
+        },
+        {
+            "name": "2s",
+            "n": 2,
+            "l": 0,
+            "m": 0,
+            "maxElectrons": 2,
+            "currentElectrons": 2,
+            "color": "#95e1d3",
+            "opacity": 0.3
+        },
+        {
+            "name": "2p",
+            "n": 2,
+            "l": 1,
+            "m": 0,
+            "maxElectrons": 6,
+            "currentElectrons": 6,
+            "color": "#f38181",
+            "opacity": 0.4
+        },
+        {
+            "name": "3s",
+            "n": 3,
+            "l": 0,
+            "m": 0,
+            "maxElectrons": 2,
+            "currentElectrons": 2,
+            "color": "#a8e6cf",
+            "opacity": 0.7
+        }
+    ]
+}

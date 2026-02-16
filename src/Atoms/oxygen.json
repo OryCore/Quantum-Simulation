@@ -1,0 +1,129 @@
+{
+    "name": "Oxygen",
+    "symbol": "O",
+    "atomicNumber": 8,
+    "description": "Oxygen is essential for life, making up 21% of Earth's atmosphere. It has 8 electrons distributed across multiple orbitals.",
+    "nucleus": {
+        "protons": 8,
+        "neutrons": 8,
+        "color": "#ff6b6b"
+    },
+    "electrons": [
+        {
+            "n": 1,
+            "l": 0,
+            "m": 0,
+            "spin": 0.5,
+            "orbital": "1s",
+            "energy": -871.4
+        },
+        {
+            "n": 1,
+            "l": 0,
+            "m": 0,
+            "spin": -0.5,
+            "orbital": "1s",
+            "energy": -871.4
+        },
+        {
+            "n": 2,
+            "l": 0,
+            "m": 0,
+            "spin": 0.5,
+            "orbital": "2s",
+            "energy": -54.9
+        },
+        {
+            "n": 2,
+            "l": 0,
+            "m": 0,
+            "spin": -0.5,
+            "orbital": "2s",
+            "energy": -54.9
+        },
+        {
+            "n": 2,
+            "l": 1,
+            "m": -1,
+            "spin": 0.5,
+            "orbital": "2p",
+            "energy": -32.4
+        },
+        {
+            "n": 2,
+            "l": 1,
+            "m": 0,
+            "spin": 0.5,
+            "orbital": "2p",
+            "energy": -32.4
+        },
+        {
+            "n": 2,
+            "l": 1,
+            "m": 1,
+            "spin": 0.5,
+            "orbital": "2p",
+            "energy": -32.4
+        },
+        {
+            "n": 2,
+            "l": 1,
+            "m": -1,
+            "spin": -0.5,
+            "orbital": "2p",
+            "energy": -32.4
+        }
+    ],
+    "orbitals": [
+        {
+            "name": "1s",
+            "n": 1,
+            "l": 0,
+            "m": 0,
+            "maxElectrons": 2,
+            "currentElectrons": 2,
+            "color": "#4ecdc4",
+            "opacity": 0.4
+        },
+        {
+            "name": "2s",
+            "n": 2,
+            "l": 0,
+            "m": 0,
+            "maxElectrons": 2,
+            "currentElectrons": 2,
+            "color": "#95e1d3",
+            "opacity": 0.5
+        },
+        {
+            "name": "2px",
+            "n": 2,
+            "l": 1,
+            "m": 1,
+            "maxElectrons": 2,
+            "currentElectrons": 2,
+            "color": "#f38181",
+            "opacity": 0.6
+        },
+        {
+            "name": "2py",
+            "n": 2,
+            "l": 1,
+            "m": 0,
+            "maxElectrons": 2,
+            "currentElectrons": 1,
+            "color": "#aa96da",
+            "opacity": 0.6
+        },
+        {
+            "name": "2pz",
+            "n": 2,
+            "l": 1,
+            "m": -1,
+            "maxElectrons": 2,
+            "currentElectrons": 1,
+            "color": "#fcbad3",
+            "opacity": 0.6
+        }
+    ]
+}

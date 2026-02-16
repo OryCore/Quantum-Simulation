@@ -1,0 +1,163 @@
+{
+    "name": "Lead",
+    "symbol": "Pb",
+    "atomicNumber": 82,
+    "description": "Lead is a heavy, malleable metal. Z=82.",
+    "nucleus": {
+        "protons": 82,
+        "neutrons": 125,
+        "color": "#555555"
+    },
+    "orbitals": [
+        {
+            "name": "1s",
+            "n": 1,
+            "l": 0,
+            "m": 0,
+            "maxElectrons": 2,
+            "currentElectrons": 2,
+            "color": "#4ecdc4",
+            "opacity": 0.1
+        },
+        {
+            "name": "2s",
+            "n": 2,
+            "l": 0,
+            "m": 0,
+            "maxElectrons": 2,
+            "currentElectrons": 2,
+            "color": "#95e1d3",
+            "opacity": 0.1
+        },
+        {
+            "name": "2p",
+            "n": 2,
+            "l": 1,
+            "m": 0,
+            "maxElectrons": 6,
+            "currentElectrons": 6,
+            "color": "#f38181",
+            "opacity": 0.1
+        },
+        {
+            "name": "3s",
+            "n": 3,
+            "l": 0,
+            "m": 0,
+            "maxElectrons": 2,
+            "currentElectrons": 2,
+            "color": "#a8e6cf",
+            "opacity": 0.15
+        },
+        {
+            "name": "3p",
+            "n": 3,
+            "l": 1,
+            "m": 0,
+            "maxElectrons": 6,
+            "currentElectrons": 6,
+            "color": "#ffd3b6",
+            "opacity": 0.15
+        },
+        {
+            "name": "3d",
+            "n": 3,
+            "l": 2,
+            "m": 0,
+            "maxElectrons": 10,
+            "currentElectrons": 10,
+            "color": "#ff8b94",
+            "opacity": 0.2
+        },
+        {
+            "name": "4s",
+            "n": 4,
+            "l": 0,
+            "m": 0,
+            "maxElectrons": 2,
+            "currentElectrons": 2,
+            "color": "#dcedc1",
+            "opacity": 0.2
+        },
+        {
+            "name": "4p",
+            "n": 4,
+            "l": 1,
+            "m": 0,
+            "maxElectrons": 6,
+            "currentElectrons": 6,
+            "color": "#ffaaa5",
+            "opacity": 0.2
+        },
+        {
+            "name": "4d",
+            "n": 4,
+            "l": 2,
+            "m": 0,
+            "maxElectrons": 10,
+            "currentElectrons": 10,
+            "color": "#ff8b94",
+            "opacity": 0.25
+        },
+        {
+            "name": "4f",
+            "n": 4,
+            "l": 3,
+            "m": 0,
+            "maxElectrons": 14,
+            "currentElectrons": 14,
+            "color": "#ffff99",
+            "opacity": 0.3
+        },
+        {
+            "name": "5s",
+            "n": 5,
+            "l": 0,
+            "m": 0,
+            "maxElectrons": 2,
+            "currentElectrons": 2,
+            "color": "#c06c84",
+            "opacity": 0.3
+        },
+        {
+            "name": "5p",
+            "n": 5,
+            "l": 1,
+            "m": 0,
+            "maxElectrons": 6,
+            "currentElectrons": 6,
+            "color": "#f67280",
+            "opacity": 0.35
+        },
+        {
+            "name": "5d",
+            "n": 5,
+            "l": 2,
+            "m": 0,
+            "maxElectrons": 10,
+            "currentElectrons": 10,
+            "color": "#ccccff",
+            "opacity": 0.4
+        },
+        {
+            "name": "6s",
+            "n": 6,
+            "l": 0,
+            "m": 0,
+            "maxElectrons": 2,
+            "currentElectrons": 2,
+            "color": "#cccccc",
+            "opacity": 0.6
+        },
+        {
+            "name": "6p",
+            "n": 6,
+            "l": 1,
+            "m": 0,
+            "maxElectrons": 6,
+            "currentElectrons": 2,
+            "color": "#aaaaaa",
+            "opacity": 0.8
+        }
+    ]
+}

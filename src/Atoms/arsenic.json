@@ -1,0 +1,113 @@
+{
+    "name": "Arsenic",
+    "symbol": "As",
+    "atomicNumber": 33,
+    "description": "Arsenic is a metalloid often used in semiconductors. Z=33.",
+    "nucleus": {
+        "protons": 33,
+        "neutrons": 42,
+        "color": "#999999"
+    },
+    "orbitals": [
+        {
+            "name": "1s",
+            "n": 1,
+            "l": 0,
+            "m": 0,
+            "maxElectrons": 2,
+            "currentElectrons": 2,
+            "color": "#4ecdc4",
+            "opacity": 0.2
+        },
+        {
+            "name": "2s",
+            "n": 2,
+            "l": 0,
+            "m": 0,
+            "maxElectrons": 2,
+            "currentElectrons": 2,
+            "color": "#95e1d3",
+            "opacity": 0.2
+        },
+        {
+            "name": "2p",
+            "n": 2,
+            "l": 1,
+            "m": 0,
+            "maxElectrons": 6,
+            "currentElectrons": 6,
+            "color": "#f38181",
+            "opacity": 0.3
+        },
+        {
+            "name": "3s",
+            "n": 3,
+            "l": 0,
+            "m": 0,
+            "maxElectrons": 2,
+            "currentElectrons": 2,
+            "color": "#a8e6cf",
+            "opacity": 0.3
+        },
+        {
+            "name": "3p",
+            "n": 3,
+            "l": 1,
+            "m": 0,
+            "maxElectrons": 6,
+            "currentElectrons": 6,
+            "color": "#ffd3b6",
+            "opacity": 0.4
+        },
+        {
+            "name": "3d",
+            "n": 3,
+            "l": 2,
+            "m": 0,
+            "maxElectrons": 10,
+            "currentElectrons": 10,
+            "color": "#ff8b94",
+            "opacity": 0.4
+        },
+        {
+            "name": "4s",
+            "n": 4,
+            "l": 0,
+            "m": 0,
+            "maxElectrons": 2,
+            "currentElectrons": 2,
+            "color": "#dcedc1",
+            "opacity": 0.5
+        },
+        {
+            "name": "4px",
+            "n": 4,
+            "l": 1,
+            "m": 1,
+            "maxElectrons": 2,
+            "currentElectrons": 1,
+            "color": "#ffd3b6",
+            "opacity": 0.7
+        },
+        {
+            "name": "4py",
+            "n": 4,
+            "l": 1,
+            "m": 0,
+            "maxElectrons": 2,
+            "currentElectrons": 1,
+            "color": "#ffd3b6",
+            "opacity": 0.7
+        },
+        {
+            "name": "4pz",
+            "n": 4,
+            "l": 1,
+            "m": -1,
+            "maxElectrons": 2,
+            "currentElectrons": 1,
+            "color": "#ffd3b6",
+            "opacity": 0.7
+        }
+    ]
+}

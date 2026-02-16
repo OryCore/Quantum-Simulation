@@ -1,0 +1,93 @@
+{
+    "name": "Silicon",
+    "symbol": "Si",
+    "atomicNumber": 14,
+    "description": "Silicon is a hard, brittle crystalline solid. Essential for electronics.",
+    "nucleus": {
+        "protons": 14,
+        "neutrons": 14,
+        "color": "#8899cc"
+    },
+    "orbitals": [
+        {
+            "name": "1s",
+            "n": 1,
+            "l": 0,
+            "m": 0,
+            "maxElectrons": 2,
+            "currentElectrons": 2,
+            "color": "#4ecdc4",
+            "opacity": 0.2
+        },
+        {
+            "name": "2s",
+            "n": 2,
+            "l": 0,
+            "m": 0,
+            "maxElectrons": 2,
+            "currentElectrons": 2,
+            "color": "#95e1d3",
+            "opacity": 0.3
+        },
+        {
+            "name": "2px",
+            "n": 2,
+            "l": 1,
+            "m": 1,
+            "maxElectrons": 2,
+            "currentElectrons": 2,
+            "color": "#f38181",
+            "opacity": 0.3
+        },
+        {
+            "name": "2py",
+            "n": 2,
+            "l": 1,
+            "m": 0,
+            "maxElectrons": 2,
+            "currentElectrons": 2,
+            "color": "#aa96da",
+            "opacity": 0.3
+        },
+        {
+            "name": "2pz",
+            "n": 2,
+            "l": 1,
+            "m": -1,
+            "maxElectrons": 2,
+            "currentElectrons": 2,
+            "color": "#fcbad3",
+            "opacity": 0.3
+        },
+        {
+            "name": "3s",
+            "n": 3,
+            "l": 0,
+            "m": 0,
+            "maxElectrons": 2,
+            "currentElectrons": 2,
+            "color": "#a8e6cf",
+            "opacity": 0.6
+        },
+        {
+            "name": "3px",
+            "n": 3,
+            "l": 1,
+            "m": 1,
+            "maxElectrons": 2,
+            "currentElectrons": 1,
+            "color": "#ffd3b6",
+            "opacity": 0.8
+        },
+        {
+            "name": "3py",
+            "n": 3,
+            "l": 1,
+            "m": 0,
+            "maxElectrons": 2,
+            "currentElectrons": 1,
+            "color": "#ffd3b6",
+            "opacity": 0.8
+        }
+    ]
+}
