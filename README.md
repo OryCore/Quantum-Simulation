@@ -42,7 +42,7 @@ Control-click that link (or copy it into Chrome). BOOM. ATOMS. PRETTY.
 
 Want to see something cool like Lithium? You can add it yourself!
 
-- Go to the flder `src/atoms/`
+- Go to the folder `src/Atoms/`
 - Make a new file called `lithium.json`
 - Copy-paste this and change the numbers ("Google lithium electron configuration" if you are stuck!)
 
